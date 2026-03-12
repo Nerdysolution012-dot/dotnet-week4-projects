@@ -104,7 +104,7 @@ namespace Student_Management_System
 
                     case "6":
                         DeleteStudent();
-                        break;
+                        break''
                 }
 
                 Console.WriteLine("*****************************************");
